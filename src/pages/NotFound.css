@@ -1,0 +1,9 @@
+.container {
+  font-weight: 400;
+  color: gray;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  padding-left: 800px;
+
+}

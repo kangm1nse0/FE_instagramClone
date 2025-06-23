@@ -1,0 +1,93 @@
+.feedpage {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 60px;
+ 
+}
+
+.feedin {
+  width: 100%;
+  max-width: 1200px;
+  padding: 40px 24px;
+}
+
+.feedprofile {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin-bottom: 48px;
+}
+
+.logo {
+  width: 120px;
+ 
+
+}
+
+.feedprofiletext {
+  text-align: left;
+}
+
+.feedtitle {
+  margin: 0;
+  font-weight: 800;
+  font-size: 36px;
+  color: #212529;
+}
+
+.feeddesc {
+  font-size: 18px;
+  color: #666;
+  margin: 10px 0;
+}
+
+.pagecount {
+  font-size: 16px;
+  font-weight: 500;
+  color: #999;
+  margin-top: 4px;
+}
+
+.pagegrid {
+  padding-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 80px;
+  border-top: 1px solid #dee2e6;
+  padding-top: 40px;
+  margin-top: 40px;
+}
+
+.feedcard {
+  background: #fff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+   gap: 30px;
+}
+
+
+
+.cardimg {
+  width: 300px;
+  object-fit: cover;
+}
+
+.cardtitle {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 8px 0 4px;
+  color: #343a40;
+}
+
+.cardcontent {
+  font-size: 15px;
+  color: #666;
+  margin: 0;
+}

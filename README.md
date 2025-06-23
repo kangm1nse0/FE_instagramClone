@@ -1,0 +1,11 @@
+<video width="640" height="360" controls>
+  <source src=".FE_instagramClone/insta.mp4" type="video/mp4">
+</video>
+
+
+
+**느낀점**
+
+  프로젝트에서 api를 사용해보니 많이 어려웠다.
+  특히 댓글창 구현하는 게.. 그래도 클론코딩이 많은 도움이 되었다.
+  해커톤 이전까지 많이 공부해서 능숙하게 할 수 있도록 만들겠다!!
