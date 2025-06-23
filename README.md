@@ -1,8 +1,4 @@
-<video width="640" height="360" controls>
-  <source src=".FE_instagramClone/insta.mp4" type="video/mp4">
-</video>
-
-
+![구현 영상](./insta.gif)
 
 **느낀점**
 
